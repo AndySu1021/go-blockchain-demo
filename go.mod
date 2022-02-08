@@ -1,1 +1,3 @@
-module "go-blockchain-demo"
+module go-blockchain-demo
+
+go 1.16
